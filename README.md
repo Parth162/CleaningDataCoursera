@@ -34,7 +34,6 @@ The following files have been included in this repo:
 2. a code book "CodeBook.wd" that describes the variables, the data, and transformations or work that performed to clean up the data
 3. the tidy data set "Tidydataset.txt" produced by the script
 4. the present "README.md" file
-5. the UCI HAR Dataset
 
 ## Packages Required
 
